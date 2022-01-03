@@ -1,0 +1,2 @@
+# futurereadytalent
+Saving confidential data in cloud using Microsoft azure Loss of data during pandemic situation or in flood situation ,we can easily retrieve our data or in formation any time any where using Microsoft azure. If we don't use Microsoft azure account we may loss our confidential data ,by using Microsoft cloud facility we can store it and retrieve our data whenever we needed. Yes ,this project is used for basic functionality in education system
